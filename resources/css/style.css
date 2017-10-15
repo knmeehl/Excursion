@@ -28,3 +28,7 @@ p {
   font-weight: lighter;
   text-decoration: underline;
 }
+
+#copyright {
+  text-align: right;
+}
